@@ -46,7 +46,7 @@ python sales_analysis.py
 ## Dashboard Preview
 
 ![Dashboard](dashboard.png)
-##conclusion
+
 ## Conclusion
 
 The Sales Analytics Dashboard successfully provides actionable insights into sales performance through interactive visualizations and data analysis. This project highlights proficiency in data preprocessing, analytical thinking, and business intelligence tools, enabling better understanding of sales patterns and supporting strategic business decisions.
