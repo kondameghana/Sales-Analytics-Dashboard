@@ -45,7 +45,7 @@ python sales_analysis.py
 
 ## Dashboard Preview
 
-![alt text](dashboard-1.png)
+![Dashboard](dashboard.png)
 
 ## Author
 
