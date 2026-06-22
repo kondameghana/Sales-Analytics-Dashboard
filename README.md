@@ -46,7 +46,3 @@ python sales_analysis.py
 ## Dashboard Preview
 
 ![Dashboard](dashboard.png)
-
-## Author
-
-Meghana
